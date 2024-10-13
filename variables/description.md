@@ -34,7 +34,7 @@ C'est la zone de ton code où elle peut être utilisée.
 #### Temporal Dead Zone (TDZ) :
 
 - C'est la période entre le début du bloc et la déclaration de la variable.
-  Pendant cette période, accéder à la variable provoque une ReferenceError.
+  Pendant cette période, accéder à une variable `const` | `let` provoque une ReferenceError.
 
 #### var
 - Portée : fonction ou globale
