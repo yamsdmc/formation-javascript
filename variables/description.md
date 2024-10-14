@@ -28,7 +28,7 @@ C'est la zone de ton code où elle peut être utilisée.
 
 `let` peut être réassigné mais pas redéclaré dans le même bloc
 
-`const` ne peut ni être réassigné ni redéclaré
+`const` ne peut ni être réassigné ni redéclaré dans le même bloc
 -   PARTICULARITÉ ICI: si c'est un objet, on peut modifier ses propriétés, un tableau, on peut ajouter des éléments, mais on ne peut pas réassigner la variable elle-même
 
 #### Temporal Dead Zone (TDZ) :
