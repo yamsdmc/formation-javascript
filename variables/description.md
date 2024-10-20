@@ -1,3 +1,7 @@
+![Texte alternatif](https://github.com/yamsdmc/formation-javascript/tree/main/variables/image.png)
+
+Vidéo Youtube: [Les variables en JavaScript](https://www.youtube.com/watch?v=aWD4BqZTjP8)
+
 ### Introduction à ce qu'est une variable
 
 Imaginons cette analogie :
