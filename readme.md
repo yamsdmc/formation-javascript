@@ -10,6 +10,7 @@ Le dépôt est organisé en plusieurs dossiers, chacun consacré à un sujet sp�
 - **Dossier Primitifs** : Informations sur les types primitifs en JavaScript (String, Number, Boolean, etc.).
 - **Dossier type-coercion_casting** : Explications sur Coercition de type (type coercion) et conversion de type (type casting) en JavaScript
 - **Dossier Closure** : Ressources et exemples sur les closures en JavaScript.
+- **Dossier Spread-Operator** : Ressources et exemples sur le spread operator, shallow et deep copy.
 ## Vidéos
 
 Des vidéos explicatives sont disponibles sur YouTube pour compléter votre apprentissage. Voici quelques-unes des vidéos que vous trouverez dans ce dépôt :
@@ -19,3 +20,5 @@ Des vidéos explicatives sont disponibles sur YouTube pour compléter votre appr
 - [Type Coercion et Casting, L’Art de Manipuler Les Types Sans Erreur !](https://www.youtube.com/watch?v=cts57eMLDMc&t=655s)
 - [Les Closures Expliquées Simplement, Le Secret Des Développeurs Confirmés !
   ](https://www.youtube.com/watch?v=iwaXTY1bSqk)
+- [Maîtrisez le Spread Operator, Shallow Copy et Deep Copy sans Piège !
+  ](https://www.youtube.com/watch?v=xlgCYgMtw1E&t=38s)
